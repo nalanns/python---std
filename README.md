@@ -1,5 +1,5 @@
 # MRCDI Python Scripts
-  description: This repository contains basic Python exercises and examples assigned as part of the MRCDI (Magnetic Resonance Current Density Imaging) project. The scripts are designed to help learn and reinforce fundamental Python programming concepts.
+This repository contains basic Python exercises and examples assigned as part of the MRCDI (Magnetic Resonance Current Density Imaging) project. The scripts are designed to help learn and reinforce fundamental Python programming concepts.
 
 # files:
   * beginner:
