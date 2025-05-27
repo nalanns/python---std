@@ -1,7 +1,7 @@
 # MRCDI Python Scripts
 This repository contains basic Python exercises and examples assigned as part of the MRCDI (Magnetic Resonance Current Density Imaging) project. The scripts are designed to help learn and reinforce fundamental Python programming concepts.
 
-# files:
+files:
   * beginner:
     - cond.py: Examples of conditional statements (if, elif, else) and decision structures.
     - except.py: Examples demonstrating error handling with try and except blocks.
