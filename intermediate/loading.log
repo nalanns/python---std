@@ -1,0 +1,8 @@
+This is a debug log message with a specific level.
+This is an info log message with a specific level.
+This is a debug log message with a specific level.
+This is an info log message with a specific level.
+This is a debug log message with a specific level.
+This is an info log message with a specific level.
+ DEBUG - 2025-06-26 15:06:33,560 : This is a debug log message with a specific level.
+ INFO - 2025-06-26 15:06:33,561 : This is an info log message with a specific level.
